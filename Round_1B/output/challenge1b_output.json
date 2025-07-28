@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": {
+      "role": "Food Contractor"
+    },
+    "job_to_be_done": {
+      "task": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items."
+    },
+    "processing_timestamp": "2025-07-28T15:27:31.660492"
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Banh Xeo",
+      "importance_rank": 1,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Harira",
+      "importance_rank": 2,
+      "page_number": 15
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Almond Butter and Apple Slices",
+      "importance_rank": 3,
+      "page_number": 16
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Gnocchi with Sage Butter",
+      "importance_rank": 4,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Zucchini Noodles with Pesto",
+      "importance_rank": 5,
+      "page_number": 6
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Oil for frying \n \nInstructions: \no Mix grated cassava with coconut milk and salt. \no Form mixture into flat cakes. \no Fry in hot oil until golden. \no Drain on paper towels and serve warm. \n \nBanchan \n \nIngredients: \no Assorted small side dishes like pickled radish, spinach, bean sprouts, kimchi \n \nInstructions: \no Prepare each side dish separately. \no Arrange on small plates. \no Serve as accompaniments to the main meal. \n \nBanh Beo \n \nIngredients: \no 1 cup rice flour \no 1/2 cup water \no 1/2 cup coconut milk \no 1/4 cup shrimp \no 1/4 cup green onions \no 1/4 cup fried shallots \no 1 teaspoon salt \no 1/2 teaspoon sugar \n \nInstructions: \no Mix rice flour, water, coconut milk, salt, and sugar to form a batter. \no Pour batter into small dishes and steam until set. \no Sauté chopped shrimp and green onions until cooked. \no Top steamed cakes with shrimp, green onions, and fried shallots. \no Serve with dipping sauce. \n \nBanh Xeo \n \nIngredients: \no 1 cup rice flour \no 1/2 cup coconut milk \no 1/2 cup water \no 1/2 pound shrimp \no 1/2 pound pork \no 1 small onion \no 1/2 cup bean sprouts \no 1/4 cup green onions \no 1/4 cup cilantro \no 1 teaspoon turmeric",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o 1 small onion \no 2 tomatoes \no 1 teaspoon salt \no 1 tablespoon chopped cilantro \no 1 teaspoon minced garlic \n \nInstructions: \no Cut avocados in half, remove the pit, and scoop out the flesh into a bowl. \no Mash the avocados with a fork. \no Add lime juice, diced onion, chopped tomatoes, salt, cilantro, and garlic. \no Mix well and serve immediately. \n \nGurkensalat (Cucumber Salad) \n \nIngredients: \no 2 cucumbers \no 1/4 cup sour cream \no 2 tablespoons vinegar \no 1 tablespoon sugar \no 1 teaspoon dill \no 1 teaspoon salt \n \nInstructions: \no Slice cucumbers thinly. \no Mix sour cream, vinegar, sugar, dill, and salt in a bowl. \no Toss cucumbers with the dressing. \no Serve chilled. \n \nGyeran Jjim \n \nIngredients: \no 4 eggs \no 1 cup water \no 1/4 cup green onions \no 1 teaspoon salt \no 1/2 teaspoon sesame oil \n \nInstructions: \no Beat eggs with water, salt, and chopped green onions. \no Pour mixture into a heatproof bowl. \no Steam for 10-15 minutes until set. \no Drizzle with sesame oil and serve warm. \n \nHarira \n \nIngredients: \no 1 cup lentils \no 1/2 cup chickpeas \no 1 small onion",
+      "page_number": 15
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• \nServe immediately. \n \n \n \nCottage Cheese and Veggie Bowl \nIngredients: \n• \n1 cup cottage cheese \n• \n1/4 cup diced cucumber \n• \n1/4 cup cherry tomatoes, halved \n• \n1/4 cup diced bell pepper \n• \nSalt and pepper to taste \nInstructions: \n• \nIn a bowl, combine cottage cheese, cucumber, cherry tomatoes, and bell pepper. \n• \nSeason with salt and pepper. \n• \nServe immediately. \n \n \n \n \nAlmond Butter and Apple Slices \nIngredients: \n• \n1 apple, sliced \n• \n2 tablespoons almond butter \nInstructions: \n• \nSpread almond butter on each apple slice. \n• \nServe immediately.",
+      "page_number": 16
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": " \nIn a bowl, mix yogurt, lemon juice, garlic, ginger, garam masala, turmeric, and cumin. \nMarinate chicken in the mixture for at least 1 hour. \n \nIn a skillet, melt butter over medium heat. \n \nAdd marinated chicken and cook until browned. \n \nStir in tomato puree and simmer for 20 minutes. \n \nAdd heavy cream, season with salt and pepper, and simmer for another 10 minutes. \n \nGarnish with cilantro and serve with rice or naan. \n \n \n \nChili Con Carne \nIngredients: \n \n1 pound ground beef \n \n1 small onion, diced \n \n2 cloves garlic, minced \n \n1 can (15 ounces) kidney beans, drained \n \n1 can (14.5 ounces) diced tomatoes \n \n1/4 cup tomato paste \n \n1 cup beef broth \n \n1 tablespoon chili powder \n \n1 teaspoon cumin \n \n1 teaspoon paprika \n \nSalt and pepper to taste \n \nShredded cheese and sour cream for garnish \nInstructions: \n \nIn a large pot, cook ground beef with diced onion and garlic over medium heat until \nbrowned. \n \nStir in kidney beans, diced tomatoes, tomato paste, beef broth, chili powder, cumin, and \npaprika. \n \nBring to a boil, then reduce heat and simmer for 30 minutes, stirring occasionally. \n \nSeason with salt and pepper. \n \nServe hot, garnished with shredded cheese and sour cream. \n \n \n \nGnocchi with Sage Butter \nIngredients: \n \n1 pound potato gnocchi \n \n1/4 cup butter \n \n2 cloves garlic, minced \n \n8 fresh sage leaves \n \n1/2 cup grated Parmesan cheese \n \nSalt and pepper to taste \nInstructions:",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": " \n1 small onion, sliced \n \n2 cloves garlic, minced \n \n1 piece ginger, sliced \n \n2 star anise \n \n1 cinnamon stick \n \n1 tablespoon fish sauce \n \n1 tablespoon soy sauce \n \n8 ounces rice noodles \n \nFresh basil, cilantro, bean sprouts, lime wedges, and sliced jalapeños for garnish \nInstructions: \n \nIn a large pot, bring beef broth to a boil. \n \nAdd sliced onion, minced garlic, sliced ginger, star anise, and cinnamon stick. \n \nSimmer for 30 minutes. \n \nStir in fish sauce and soy sauce. \n \nCook rice noodles according to package instructions. \n \nDivide noodles and thinly sliced beef among bowls. \n \nPour hot broth over the top. \n \nGarnish with fresh basil, cilantro, bean sprouts, lime wedges, and sliced jalapeños. \n \nServe immediately. \n \n \n \nYakitori \nIngredients: \n \n1 pound chicken thighs, cut into bite-sized pieces \n \n1/4 cup soy sauce \n \n1/4 cup mirin \n \n1/4 cup sake \n \n2 tablespoons sugar \n \nBamboo skewers \n \nSliced green onions for garnish \nInstructions: \n \nIn a bowl, mix soy sauce, mirin, sake, and sugar. \n \nMarinate chicken pieces in the mixture for at least 30 minutes. \n \nThread chicken onto bamboo skewers. \n \nPreheat grill to medium-high heat. \n \nGrill chicken, brushing with marinade, until cooked through. \n \nGarnish with sliced green onions and serve. \n \n \n \nZucchini Noodles with Pesto \nIngredients: \n \n4 zucchinis, spiralized into noodles",
+      "page_number": 6
+    }
+  ]
+}

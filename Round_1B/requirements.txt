@@ -1,0 +1,7 @@
+fitz
+PyMuPDF==1.23.19
+scikit-learn
+pandas
+numpy
+faiss-cpu
+sentence-transformers
