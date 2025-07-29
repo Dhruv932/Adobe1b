@@ -33,7 +33,7 @@ Round_1B/
 
 Docker:
 ```bash
-docker build -t adobe-round1b .
+docker build -t round1b .
 docker run -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output round1b
 
 Local:bash
